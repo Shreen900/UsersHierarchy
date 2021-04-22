@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BigTinCans", "BigTinCans.csproj", "{F7DB4A93-44BC-4773-B750-DE100C6EA7AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BigTinCansTests", "..\BigTinCansTests\BigTinCansTests.csproj", "{B9D19A50-1F2D-4F15-B877-1591AAF9163A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7DB4A93-44BC-4773-B750-DE100C6EA7AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7DB4A93-44BC-4773-B750-DE100C6EA7AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7DB4A93-44BC-4773-B750-DE100C6EA7AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7DB4A93-44BC-4773-B750-DE100C6EA7AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9D19A50-1F2D-4F15-B877-1591AAF9163A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9D19A50-1F2D-4F15-B877-1591AAF9163A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9D19A50-1F2D-4F15-B877-1591AAF9163A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9D19A50-1F2D-4F15-B877-1591AAF9163A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5865F472-8E81-4E3F-9372-6E4736B01985}
+	EndGlobalSection
+EndGlobal
